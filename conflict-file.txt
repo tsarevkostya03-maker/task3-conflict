@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Your change
+=======
+Colleague's change
+>>>>>>> d996f793997d3e519a13c87203a354fb0b0d7769
